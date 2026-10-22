@@ -1,0 +1,376 @@
+id_trecho,conjunto,origem,indice_base,trecho,tipo_insight_llm,revisado_grupo,tipo_insight,categoria_crm
+D00,desenvolvimento,sorteio_inicial,178,"[LOCUTOR 40]: emissão de nota fiscal, né? As notas fiscais que eu preciso emitir todos os meses, ou enfim, eu faço manual pelo site da prefeitura, entende? Mas então...",dor,True,dor,historico
+D01,desenvolvimento,sorteio_inicial,956,"[LOCUTOR 10]: tendo... Só que naquela proposta lá, pelo que eu estudei, ela não está clara o que é esse modelo. A gente
+[LOCUTOR 38]: precisa detalhar
+[LOCUTOR 10]: isso.
+[LOCUTOR 38]: Não, n
+[LOCUTOR 17]: é que
+[LOCUTOR 38]: não está claro, é que lá é a sustentação. Pensa aqui, o que é sustentação? Sustentação é quem vai estar dando sustentação para o sistema da [EMPRESA]",objecao,True,objecao,risco
+D04,desenvolvimento,sorteio_inicial,954,"[LOCUTOR 15]: ele
+[LOCUTOR 3]: é minúsculo. Hoje o grupo [LOCAL] tem um contrato gigante com a TOTOS em [LOCAL], que é a nossa parte de [LOCAL], onde praticamente temos todos os módulos da TOTOS, entendeu? Então hoje a [LOCAL] usa isso por indicação da [LOCAL] Infraestrutura, que é uma das empresas mais antigas do grupo, que está há",oportunidade,False,oportunidade,proxima_acao
+D05,desenvolvimento,sorteio_inicial,120,"[LOCUTOR 18]: Sim, sim, sim.
+[LOCUTOR 8]: A gente, por exemplo, tem a [LOCAL] em [LOCAL], que usa uma outra solução de veterinária lá. A gente imigrou tudo para dentro do RL, né? E essa parte ficou de fora porque a gente não tinha, na época, uma solução. Eles não queriam customizar uma data do ARN, eles queriam o mínimo de customização possível.",dor,False,dor,historico
+D07,desenvolvimento,sorteio_inicial,114,"[LOCUTOR 11]: Tu diz na questão de
+[LOCUTOR 5]: relatório,[PESSOA] -
+[LOCUTOR 11]: [PESSOA], ou
+[LOCUTOR 5]: de...[PESSOA] -
+[LOCUTOR 11]: Tipo
+[LOCUTOR 5]: um relatório, alguma coisa, ou uma tela que...[PESSOA] -
+[LOCUTOR 11]: Tem, como a gente tem daí assim, tem os relatórios padrões, mas esses aqui é mais voltado para gestão, né? É relatório",nenhum,False,nenhum,nenhum
+D11,desenvolvimento,sorteio_inicial,28,"[LOCUTOR 76]: né?
+[LOCUTOR 51]: Ao contrário, é exatamente pra estressar Ah, o objetivo é que apareça mais erros? Não, mas se tiver que aparecer, que seja nesse momento e não depois do Go Live, né?",nenhum,False,nenhum,nenhum
+D15,desenvolvimento,sorteio_inicial,188,"[LOCUTOR 6]: E já
+[LOCUTOR 12]: é uma evolução.
+[LOCUTOR 6]: Aí
+[LOCUTOR 12]: a gente toma uma decisão juntos. Esse produto me atende até aqui, e esse aqui eu ainda vou continuar fazendo alguma coisa manual. E aí você ir se organizando até ir ganhando essa musculatura, né? Que você tá buscando com o crescimento, né?",oportunidade,False,oportunidade,proxima_acao
+D16,desenvolvimento,sorteio_inicial,604,"[LOCUTOR 11]: [LOCUTOR 10]: base de homologação, não tá, não tem dados, nada lá pra fazer as validações, como é que faz? [LOCUTOR 4]: é óbvio que tá atior, né? Mas o [PESSOA] vai sugerir uma opção, vamos ver se a [PESSOA] vai acatar. É, mas a cartinha que ele mandou lá, infelizmente, não tem jeito, né? Suspender pagamento. É a mesma coisa que o [PESSOA] pediu da outra vez?",risco,True,risco,risco
+D18,desenvolvimento,sorteio_inicial,820,"[LOCUTOR 5]: coisa que
+[LOCUTOR 34]: tem que olhar,
+[LOCUTOR 39]: alguma coisa
+[LOCUTOR 34]: de produto, alguma
+[LOCUTOR 5]: coisa assim.
+[LOCUTOR 39]: A [LOCAL] também ajuda a endereçar esse caso aí do grupo de aprovadores, porque eu tô com minha parte de compras parada, minhas solicitações de compras paradas, e é um momento que eu não posso parar, que agora o negócio começou, porque deu problema nesse grupo de",risco,False,risco,risco
+D19,desenvolvimento,sorteio_inicial,980,"[LOCUTOR 7]: deixa eu ver se eu consigo conversar com ela aqui, porque esse painel não sou eu que cadastro, e aí tem as questões ali de vínculo do [EMPRESA], então tem algumas coisas ali que ela precisa de fazer inicialmente,",nenhum,False,nenhum,nenhum
+D24,desenvolvimento,sorteio_inicial,866,"[LOCUTOR 60]: A integração, ela vai ser feita pelo time do [EMPRESA], é isso? Isso,
+[LOCUTOR 51]: isso.
+[LOCUTOR 60]: Tá, e por enquanto a gente não vai ter nenhuma reunião com eles?
+[LOCUTOR 16]: hora não, eles fazem lá a reunião do entendimento, né, a [LOCAL] pegou a primeira informação, as primeiras informações, A gente tem aqui o detalhe da proposta, né? A especificação da proposta de implementação disso. E aí, a partir dessa reunião que eles vão ter na semana que vem, po",nenhum,False,nenhum,nenhum
+D25,desenvolvimento,sorteio_inicial,180,"[LOCUTOR 4]: certo. Seguramente.
+[LOCUTOR 8]: [LOCAL]. Então não tem mais nenhum custo para você recorrente. É só o custo da mensalidade. Aqui na direita eu tenho alguns acréscimos. O setup é a instalação, é a configuração, é os treinamentos, é as boas práticas. Isso vai ter um time de implantação que vai apoiar você e o projeto é de 45 dias para ser entregue. Eu tenho aqui do lado algumas questões que são por excedente, caso venha a acontecer. Então, por exemplo, eu te ofere",nenhum,True,nenhum,nenhum
+D28,desenvolvimento,sorteio_inicial,100,"[LOCUTOR 7]: do
+[LOCUTOR 11]: projeto, junto com a [PESSOA], com a [PESSOA], com o [PESSOA], eu lembro que bastante gente se envolveu nesse assunto,
+[LOCUTOR 7]: A
+[LOCUTOR 11]: gente falou apenas para vocês o seguinte, a gente precisa subir, inclusive, o custo dos produtos. E aí, eu sei que houve algumas reuniões internas da [EMPRESA], que daí, obviamente, a gente não participou, e que eu, assim, não falamos mais sobre esse assunto e tudo mais, e eu entendo que ficou ok. E a",objecao,False,objecao,risco
+D29,desenvolvimento,sorteio_inicial,160,"[LOCUTOR 6]: como eu tinha te comentado também, se caso tenha alguma contra proposta também por parte de vocês que eu posso internalizar aqui como como é que diz a proposta não é ofensa a proposta da proposta",objecao,False,objecao,risco
+D30,desenvolvimento,sorteio_inicial,624,"[LOCUTOR 12]: Hoje vocês estão em quantos colaboradores?[PESSOA] raulino: Hoje
+[LOCUTOR 7]: a gente está com 46, a sete e nove.
+[LOCUTOR 12]: É, e assim, o valor, ele é bem... Como é que eu posso dizer? Vamos chutar, né? Ah, seu contrato 1 módulo custa 10. Seu contrato 2 custa 20? Não, ele vai custar 12, sabe? Então, ele tem somente um valor ali de acréscimo. Ele não duplica ou quadriplica o valor da mensalidade por inserir mais um módulo, né? A gente vai chamando aqui de add",oportunidade,False,oportunidade,proxima_acao
+D31,desenvolvimento,sorteio_inicial,1040,"[LOCUTOR 28]: Faz total sentido isso que você está dizendo. Realmente, não adianta querer colocar a carroça na frente dos bois,
+[LOCUTOR 2]: para
+[LOCUTOR 28]: poder rodar uma solução ali, tem que ter uma infra para poder sustentar isso. Mas hoje, por exemplo, quando você fala de WMS, Vocês já chegaram a dar alguma olhada no mercado? Porque hoje, por exemplo, dentro da TOTOS a gente tem um WMS muito bom que muitas empresas utilizam e o nosso WMS hoje ele fica na nuvem, né? Vo",oportunidade,False,oportunidade,proxima_acao
+D34,desenvolvimento,sorteio_inicial,900,"[LOCUTOR 19]: a
+[LOCUTOR 25]: parte de empréstimos e aplicações também. Então a gente já teve essa fala da própria [EMPRESA] no passado onde a gente promoveu um momento ali e o entendimento foi outro. Mas se isso ela ainda continua com essa percepção acho que faz sentido sim a gente fazer assim como a [PESSOA] sugeriu ali uma cariação entre eles traz todo mundo ali deixa ela expor o sentimento dela o que ela está está presenciando ali e a gente entende ali junto com ela e com",risco,False,risco,risco
+D35,desenvolvimento,sorteio_inicial,824,"[LOCUTOR 19]: dizer.[PESSOA] de
+[LOCUTOR 7]: Dentro
+[LOCUTOR 19]: do pronto-hora, a gente até conseguiria, né?[PESSOA] de
+[LOCUTOR 7]: É, beleza.
+[LOCUTOR 19]: Entre estabelecimento, né, evoluções, prescrições, [LOCAL], tudo que foi realizado, mas usando um exemplo, [PESSOA] mesmo, ela tem um atendimento de farmácia que ela precisa registrar essa informação no estabelecimento da casa de apoio, mesmo por vezes ela fazendo uma liberação de uma medicação pelo centro de oncologia",dor,False,dor,historico
+D39,desenvolvimento,sorteio_inicial,126,"[LOCUTOR 31]: [PESSOA], essa solicitação de ir para a [LOCAL] também [PESSOA] é só do [EMPRESA]. Meu diretor já chegou há muitos anos atrás e, bora para a [LOCAL]. Bora para a [LOCAL]. Aí depois a gente começou a conversar melhor e, bom, se a gente ir para a [LOCAL], por que a gente [PESSOA] pensa aí na [LOCAL] e da [EMPRESA]? Primeiro, a gente vai fazer o seguinte, vai diminuir custo com pessoas para terem que ficar agendando datas aqui, para vir em final de semana, atualiza",dor,True,dor,historico
+D43,desenvolvimento,sorteio_inicial,874,"[LOCUTOR 20]: forma que vocês
+[LOCUTOR 2]: têm.[PESSOA] da
+[LOCUTOR 20]: Isso que eu ia perguntar. A gente precisa manter essa ou uma nova, não sei, porque eu preciso manter essa base para consulta, porque a gente usa",dor,False,dor,historico
+D44,desenvolvimento,sorteio_inicial,610,"[LOCUTOR 18]: Isso, é, essa é a ideia, de passar uma ideia de grandeza, né, pra você ter uma ideia. Como é que eu tô celular, [PESSOA]? Pra mim já anotar e ficar se falando aí. [LOCAL]. O que é isso? E aí E aí",nenhum,False,nenhum,nenhum
+D51,desenvolvimento,sorteio_inicial,730,"[LOCUTOR 39]: Sim.
+[LOCUTOR 20]: Então beleza, a gente marca presencial. Na
+[LOCUTOR 39]: verdade, sim, eu quero muito que dê certo. Eu sou sozinha, às vezes é por isso. Eu
+[LOCUTOR 20]: demoro
+[LOCUTOR 39]: para responder?
+[LOCUTOR 20]: Não, eu entendo perfeitamente.",oportunidade,False,oportunidade,proxima_acao
+D57,desenvolvimento,sorteio_inicial,96,"[LOCUTOR 3]: Sim.
+[LOCUTOR 11]: Sim, já me apresentei para o [PESSOA]. Inclusive, vou estar lá na quinta-feira fazendo uma visita presencial para eles.
+[LOCUTOR 3]: Isso.
+[LOCUTOR 20]: Legal. O [PESSOA], ele atua na nossa área comercial. [PESSOA], explica para o [PESSOA] o que você faz.",nenhum,False,nenhum,nenhum
+XD00,desenvolvimento,pool_palavra_pista,802,"[LOCUTOR 5]: [EMPRESA]. E aí ele também já consegue realocar o distância dessa interjornada?
+[LOCUTOR 8]: Se tiver naquela regra de folga assim. Ele realoca conforme a regra de folga que você criou para ele.
+[LOCUTOR 5]: [LOCAL]. [PESSOA], agora a nossa dúvida sobre regularização. Hoje nós temos muita dificuldade, com a ferramenta atual, de ser mais intuitiva, de conseguir fazer uma tratativa coletiva de ponto para os gestores. Se você pudesse mostrar para a gente como é trat",dor,False,dor,historico
+XD01,desenvolvimento,pool_palavra_pista,378,"[LOCUTOR 25]: a
+[LOCUTOR 2]: conexão, a integração entre elas.
+[LOCUTOR 25]: E aí, fluindo o processo normal de implantação, sem atrasos, nada de demorar para É o quê? Uns três, quatro meses, né?
+[LOCUTOR 2]: [LOCAL] é 90, [PESSOA], 90 a 120.
+[LOCUTOR 25]: [PESSOA]
+[LOCUTOR 2]: pode se antecipar, porque a gente não traz, antes da fase de um projeto específico a ser implantado em alguma companhia, a gente traz uma faixa de 90 a 120, mas aí o avanço na contratação, enfim, na fo",nenhum,False,nenhum,nenhum
+XD02,desenvolvimento,pool_palavra_pista,566,"[LOCUTOR 16]: pra
+[LOCUTOR 57]: gente brincar aí, cara. Tu acha[PESSOA] -
+[LOCUTOR 16]: que d
+[LOCUTOR 48]: pra entrar[PESSOA] -
+[LOCUTOR 16]: mesmo?
+[LOCUTOR 57]: Ou pra entrar é melhor a gente mostrar esse...[PESSOA] -
+[LOCUTOR 16]: Deixa eu
+[LOCUTOR 57]: olhar... E a gente diz que se a etapa de tirar o pedido for uma dificuldade, nós temos aqui. E aí lá na frente nós podemos... Ou nem fala nada, mas se na frente tiver dificuldade a gente apresenta como solução. Eu não sei o que ",nenhum,False,nenhum,nenhum
+XD04,desenvolvimento,pool_palavra_pista,128,"[LOCUTOR 3]: É, eu acho que sim, eu acho que, deixa eu pensar, olha, só o que não tá no Proteus são umas coisas, assim, bem específicas, o controle um sistema de laboratório, alguma entrada de portaria, assim. Eu acho que a parte administrativa mesmo, o back office da empresa, hoje está tudo dentro do Proteus. O que não estava, e agora recentemente foi colocado, é o [LOCAL]. Então, acho que",nenhum,False,nenhum,nenhum
+XD05,desenvolvimento,pool_palavra_pista,1126,"[LOCUTOR 1]: Tá bom, entendi. E aí [LOCAL] vão ter uma empresa que vai fazer todo o projeto de desmontagem, tudo isso daí.
+[LOCUTOR 2]: Tá, tem tudo mais, exatamente. A gente tá dentro desses 5 bilhões aí. Só que a gente vai ter que ter todo esse controle já dessa nova empresa, né? Dentro da nossa parte.",dor,True,oportunidade,proxima_acao
+XD09,desenvolvimento,pool_palavra_pista,738,"[LOCUTOR 2]: Olha, [PESSOA], é bem interessante os recursos, né, principalmente essa questão aí da, dos leitos, né, nas altas ali que você citou no início, porque a gente sabe é um processo bem manual, né, que acaba sendo bem manual, depende muito de uma ação humana e às vezes acaba passando alguma coisa e eu achei bem interessante, principalmente essa parte aí da questão da liberação dos leitos, me chamou bastante atenção isso daí.",dor,False,dor,historico
+XD10,desenvolvimento,pool_palavra_pista,182,"[LOCUTOR 21]: [LOCUTOR 18]: normal. [LOCUTOR 30]: acho que mais do quejoci [LOCAL]: isso, gente, assim, tudo bem, a plataforma que você vai preencher um campo ou mais ou outro, mas enfim. Eu acho que o maior ganho aqui, tá, [PESSOA], é a agilidade de atendimento.[PESSOA]: Quanto vocês provavelmente perdem de negócio por timing, [LOCAL], ah, esperou baixar a planilha, até direcionar para o [PESSOA], o [PESSOA] entrou em contato só depois de, sei lá, cinco horas. Nessas cinco h",dor,False,dor,historico
+XD12,desenvolvimento,pool_palavra_pista,1018,"[LOCUTOR 18]: Sim. É, o próprio colaborador, ele pode receber tanto por e-mail quanto a notificação no aplicativo,
+[LOCUTOR 43]: né? Ent
+[LOCUTOR 7]: tem a notificação formal da empresa ali pra eles poderem preencher. E a pesquisa, eu não consigo te mostrar [PESSOA] aqui porque eu não tenho acesso à ferramenta, mas na demonstração o pessoal consegue.",nenhum,False,nenhum,nenhum
+XD13,desenvolvimento,pool_palavra_pista,764,"[LOCUTOR 7]: Só que é assim, a parte do Fluig, uma informação que a [LOCAL] trouxe para a gente, das últimas reuniões, é que eles fazem 10 solicitações de manutenção de ar-condicionado, 10 por mês. Talvez a gente tenta argumentar com eles se faz sentido seguir com esse negócio, esses R$ 3 mil, R$ 4 mil a mais. Banca esse tipo de serviço que vocês têm? Até a gente brincou, monta uma planilha, monta um Google Forms aí e controla por lá, cara.",objecao,False,objecao,risco
+XD14,desenvolvimento,pool_palavra_pista,914,"[LOCUTOR 30]: até que não foi demorado, porque teve uma pateteada nossa aqui. O chamado foi aberto
+[LOCUTOR 8]: ontem... É o seguinte, 9h24 eles pediram o telefone, aí lá, às 9h20 pediram o telefone, 9h24 o [LOCAL] respondeu o telefone. E a partir desse pedido, até agora, eles não entraram em contato. Foi entrar em contato, sei lá, duas horas da tarde, duas e meia. Entendeu?",risco,False,risco,risco
+XD15,desenvolvimento,pool_palavra_pista,688,"[LOCUTOR 31]: Pra gente serviu de lição, né, [LOCAL]? A gente tem a nossa tecnologia interna,
+[LOCUTOR 21]: a gente tem
+[LOCUTOR 31]: alguns sistemas desenvolvidos em casa e talvez até por isso foi toda dificuldade, né? Por conta de que aqui é tailor-made, né? Todo mundo acostumado a costurar roupinha no",dor,False,dor,historico
+XD19,desenvolvimento,pool_palavra_pista,216,"[LOCUTOR 5]: vir
+[LOCUTOR 19]: [PESSOA]
+[LOCUTOR 5]: lançando
+[LOCUTOR 19]: isso na mão. Para fazer essa
+[LOCUTOR 5]: gestão,
+[LOCUTOR 19]: [PESSOA] dentro tem o que a gente chama de novo gestor financeiro. O que é todo isso? juntou todo o meu contas a pagar e a receber e movimentação bancária, o que a gente chama [PESSOA] de gestor financeiro, né?",dor,False,dor,historico
+XD20,desenvolvimento,pool_palavra_pista,270,"[LOCUTOR 35]: é legal
+[LOCUTOR 30]: disso? Se um cliente clicou lá... Eu não consigo acessar porque eu não tenho a conta da Meta, mas a jornada fica aqui dentro mesmo. É por aqui que você cria a tua campanha. É como se você estivesse acessando a tua conta da Meta ou a sua conta do [EMPRESA] por aqui dentro do [LOCAL].",nenhum,True,nenhum,nenhum
+XO01,desenvolvimento,pool_palavra_pista,600,"[LOCUTOR 53]: Quando vocês forem montar a proposta, pensem com carinho. Não
+[LOCUTOR 50]: imaceouro.
+[LOCUTOR 12]: que vocês consigam
+[LOCUTOR 53]: fechar essa parceria agradável. Assim
+[LOCUTOR 40]: que essa
+[LOCUTOR 53]: proposta
+[LOCUTOR 40]: estiver pronta, o meu objetivo é ir aí. E a [EMPRESA], eu costumo dizer que quando o cliente quer, [PESSOA] quer de fato mudar, [PESSOA] não vai deixar de fechar a [EMPRESA] por uma questão financeira. Isso aí eu garanto, porque aqui ",oportunidade,True,oportunidade,proxima_acao
+XO02,desenvolvimento,pool_palavra_pista,852,"[LOCUTOR 9]: E o problema é que a gente tem até uma cláusula, consta isso em propostas, que a [EMPRESA] pode estar faturando pelo CNPJ [PESSOA] [EMPRESA] matriz, que seria o 1000 contra 22 e qualquer uma de suas filiais. Então aí a gente tem várias filiais que podem acontecer o faturamento, então para cancelar a nota a gente não consegue, por esse motivo que consta em propostas e também por já ser de meses anteriores.[PESSOA] da",objecao,True,dor,historico
+XO03,desenvolvimento,pool_palavra_pista,1100,"[LOCUTOR 126]: sistema. S
+[LOCUTOR 34]: vai
+[LOCUTOR 126]: ampliar,
+[LOCUTOR 38]: porque como ela é departamental, eu posso separar isso e dividir do jeito que eu quiser. Posso criar outras filiais com o mesmo sistema. Com o mesmo servidor, separando isso para [PESSOA] e o mundo.",nenhum,False,nenhum,nenhum
+XO05,desenvolvimento,pool_palavra_pista,350,"[LOCUTOR 14]: E o que a gente pode fazer a partir de agora? Tem alguma coisa que você queira que eu faça, que eu monte uma proposta em inglês, ou alguma coisa que eu mandei pra vocês? Tem alguma coisa que você precisa de nós?",oportunidade,False,oportunidade,proxima_acao
+XO08,desenvolvimento,pool_palavra_pista,786,"[LOCUTOR 3]: Quer esperar aí pra gente ver?ant
+[LOCUTOR 11]: [EMPRESA]?
+[LOCUTOR 3]: Esperar para a gente ver?ant
+[LOCUTOR 11]: Só um minuto. Deixa eu ver se eu acho os pontos aqui. Aqui, um dos pontos que fala sobre isso aqui, os valores líquidos da proposta são líquidos e devem ser acrescidos por todos os encargos fiscais e tributários excedentes. Minha dúvida é, por exemplo,",objecao,False,objecao,risco
+XO09,desenvolvimento,pool_palavra_pista,12,"[LOCUTOR 40]: [LOCAL], [PESSOA]. Eu só gostaria de trazer justamente a questão da própria logística em si, principalmente quando a gente está falando agora de WMS também, Essa preocupação também está nesse time, né? Essa proximidade com os times de produto, a proximidade com... O time de",nenhum,True,oportunidade,proxima_acao
+XO10,desenvolvimento,pool_palavra_pista,668,"[LOCUTOR 6]: que nós
+[LOCUTOR 17]: temos. Porém, a gente precisaria entender a volumetria, né, [PESSOA], para a gente poder fazer uma
+[LOCUTOR 53]: proposta.
+[LOCUTOR 17]: Precisa entender [PESSOA] volume mensal, a gente faz uma, é um [EMPRESA], é uma mensalidade, tá, [PESSOA], baseado nesse volume de notas.",oportunidade,False,oportunidade,proxima_acao
+XO12,desenvolvimento,pool_palavra_pista,356,"[LOCUTOR 46]: né? Bastante. [PESSOA] diz, isso daqui já é algo que está lá dentro do planejamento para 2026, ou
+[LOCUTOR 60]: você ainda
+[LOCUTOR 46]: vai tentar levar para uma
+[LOCUTOR 60]: provação? Não,
+[LOCUTOR 46]: isso
+[LOCUTOR 60]: está dentro do planejamento, mas é como eu te falei, estudando muita questão de proposta, porque se eu te disser assim, qual é a margem que eu tenho para trabalhar a [LOCAL]? Minha margem é essa. Eu vou dentro da necessidade de a gente conse",oportunidade,False,oportunidade,proxima_acao
+XO13,desenvolvimento,pool_palavra_pista,856,"[LOCUTOR 56]: né?
+[LOCUTOR 28]: Quando eu era, trabalhava numa outra companhia, eu tinha um executivo meu [PESSOA] morava aí, então fui muito, te comentei, né? Aquele hotel diferente pro lago, aquele hotel branco, esqueci o nome agora. Então eu faço questão de ir presencialmente até conhecer a operação de vocês para poder apresentar esse projeto e proposta e tentar engrenar aí uma parceria com vocês.",oportunidade,False,oportunidade,proxima_acao
+XO15,desenvolvimento,pool_palavra_pista,904,"[LOCUTOR 19]: gente pega um despachante,
+[LOCUTOR 3]: tá?
+[LOCUTOR 22]: Ele nos manda a nota fiscal de espelho,
+[LOCUTOR 3]: a [LOCAL],
+[LOCUTOR 22]: e a gente faz uma
+[LOCUTOR 3]: nota de
+[LOCUTOR 22]: nacionalização dentro
+[LOCUTOR 3]: do IRPF. Mas a gente confere com o firma depois, se [PESSOA] dá para ser. O importante é que a gente está confiante, porque depois a gente discute de vez em quando, mas a gente está confiante com a proposta comercial. [PESSOA] tem nada a ver ",oportunidade,True,oportunidade,proxima_acao
+XO16,desenvolvimento,pool_palavra_pista,920,"[LOCUTOR 4]: interesse de
+[LOCUTOR 29]: vocês também.
+[LOCUTOR 40]: Com certeza que é de interesse, né, [PESSOA]? O [PESSOA] pode estar
+[LOCUTOR 4]: fazendo aí,
+[LOCUTOR 40]: fazendo
+[LOCUTOR 4]: esse
+[LOCUTOR 40]: contato
+[LOCUTOR 4]: aí.
+[LOCUTOR 40]: Pode ser com o [PESSOA] ali, esse contato?
+[LOCUTOR 29]: Sim,
+[LOCUTOR 4]: sim.
+[LOCUTOR 40]: Isso, a gente troca ali os contatos, com certeza. É importantíssimo isso para nós, tá visualizando.",oportunidade,False,oportunidade,proxima_acao
+XO17,desenvolvimento,pool_palavra_pista,626,"[LOCUTOR 53]: Não, [PESSOA] aí pode deixar que eu articulo aqui, a gente tem uma [LOCAL], aí ela orienta, né, e gera a proposta. Beleza,
+[LOCUTOR 43]: tranquilo. Só o seguinte, registra lá no Ticket, tá? Só registra no Ticket. Fizemos a reunião de apresentação hoje. [PESSOA], por favor, me indique que produtos",oportunidade,True,nenhum,nenhum
+XO20,desenvolvimento,pool_palavra_pista,476,"[LOCUTOR 43]: E aí, [PESSOA], isso aqui é um bruto só, tá? Lógico, se a gente ir avançando, eu vou detalhar com vocês o que que eu gostaria de fato. O que que hoje é a minha maior dor, né? A gente já falou sobre o sinistro, é um ponto que você disse que funciona a mesma coisa no plano de saúde, ok. A inclusão e a exclusão de usuários, eu sei [PESSOA] de",dor,False,dor,historico
+XR01,desenvolvimento,pool_palavra_pista,1042,"[LOCUTOR 3]: essa parte
+[LOCUTOR 25]: para
+[LOCUTOR 3]: vocês? A [PESSOA] teve que sair da reunião porque ela teve uma outra reunião aí para entrar, tá? Sim, mas eu acredito que a proposta a gente gostaria de receber, sim. E depois a gente negocia com a administração,",oportunidade,True,oportunidade,proxima_acao
+XR02,desenvolvimento,pool_palavra_pista,240,"[LOCUTOR 40]: N
+[LOCUTOR 4]: com certeza.
+[LOCUTOR 40]: Os colaboradores vocês passam
+[LOCUTOR 25]: em [PESSOA]
+[LOCUTOR 40]: não sei se a parte
+[LOCUTOR 25]: de
+[LOCUTOR 40]: ponto e
+[LOCUTOR 25]: todos
+[LOCUTOR 40]: algum tipo de
+[LOCUTOR 25]: relógio. Não a gente não usa relógio hoje não. Cada um controla no caderninho na verdade o horário de caro e coisa assim. Já pensei algumas vezes fazer alguma coisa mas daí eu tento. Na verdade eu tento não fazer nada muito burocrátic",dor,True,dor,historico
+XR07,desenvolvimento,pool_palavra_pista,312,"[LOCUTOR 49]: Eu entendo.
+[LOCUTOR 13]: Posso falar sobre a opinação desse assunto aí?
+[LOCUTOR 61]: Então,
+[LOCUTOR 13]: o que acontece? Durante todo esse período do chamado aí, o que ocorreu? o [PESSOA], que foi o técnico que me atendeu no suporte, ele analisou todo o nosso sistema, ele acessou o nosso sistema inclusivo, ele verificou tudo, até que chegou numa ficou claro que [PESSOA] era um problema de configuração que era um problema de produto tanto que foi escalado para",risco,False,risco,risco
+XR09,desenvolvimento,pool_palavra_pista,818,"[LOCUTOR 49]: e
+[LOCUTOR 4]: na
+[LOCUTOR 49]: quinta-feira,
+[LOCUTOR 4]: dia 26. E aí, esses pontos aqui que estão na [EMPRESA], a gente segue, então, aqui paralelo, verificando eles aqui, né? Então,
+[LOCUTOR 49]: valeu?
+[LOCUTOR 4]: Enquanto aí você faz todo o assédio com o pessoal ali, a gente segue verificando esses pontos aqui do dia-a-dia aqui pra não ficar parado.",nenhum,False,nenhum,nenhum
+XR12,desenvolvimento,pool_palavra_pista,210,"[LOCUTOR 29]: e
+[LOCUTOR 11]: a gente agradece pelo teu tempo, assim, o que que eu penso aqui, tá, como próximo passo, tá, [LOCAL], até pra gente sair daqui alinhado com o próximo passo aí. Não sei se você vai querer envolver mais alguma outra pessoa de repente a sua irmã para quando a gente for apresentar financeiro por exemplo.",oportunidade,False,oportunidade,proxima_acao
+XR13,desenvolvimento,pool_palavra_pista,642,"[LOCUTOR 37]: paga.
+[LOCUTOR 47]: Ele deixou acho que de pagar um boleto que ele ficou sem sistema um dia e bloquearam ele foi onde ele ficou muito
+[LOCUTOR 37]: bravo
+[LOCUTOR 47]: que ele falou que parecia que a [LOCAL] não era importante para ele para todos tudo isso. Mas eu entendo que se ele realmente já quisesse cancelar [PESSOA] O tempo que ele tem reclamado disso desses boletos ele já teria pedido",risco,False,risco,risco
+XR14,desenvolvimento,pool_palavra_pista,872,"[LOCUTOR 5]: mais, então,
+[LOCUTOR 16]: uma média aqui,
+[LOCUTOR 5]: tá?
+[LOCUTOR 16]: Considerando aí oito minutos que o pessoal vai lá pra ver o que aconteceu, pra saber, pra fazer alguma coisa, a gente tá perdendo, com esses 180 leitos aí, mais de 720 horas de chamados constantes, todo dia alguém chamando pra fazer alguma coisa, pra ir lá e ver alguma coisa, tá? Pode ser mais ou menos, mas eu tô colocando algum número aqui pra você poder ter essa visão junto comigo, tá? O ",dor,False,dor,historico
+XR16,desenvolvimento,pool_palavra_pista,978,"[LOCUTOR 2]: Estrelas.
+[LOCUTOR 1]: Desgastado. Entendeu? Então eu não tenho, honestamente, assim, eu não tenho nem espaço para chegar nos meus colegas e falar, olha pessoal, conversei com a Totus e a gente vai ter que ter um custo adicional. Se vocês quiserem, cara, eu até puxo uma agenda para vocês participarem, mas já vou dizendo, vai preparado, porque o... o arcabouço de queixa é gigante. Então, o que eu poderia propor aqui na minha alçada? Daqui a pouco a gente sentar aq",risco,False,risco,risco
+XR17,desenvolvimento,pool_palavra_pista,864,"[LOCUTOR 26]: tá assistindo? Entendeu? Mas
+[LOCUTOR 3]: assim,
+[LOCUTOR 26]: você se compromete a fazer essa integração, a propor o que foi combinado desde o começo.
+[LOCUTOR 3]: que
+[LOCUTOR 26]: é todos os sistemas se conversando, cara, eu acho que é tranquilo, tá? A gente não teria por que cancelar daí. Eu falaria com o meu gerente e a gente seguiria o bairro aí.",risco,True,risco,risco
+XR20,desenvolvimento,pool_palavra_pista,714,"[LOCUTOR 30]: assim,
+[LOCUTOR 41]: o que
+[LOCUTOR 30]: quer dizer? Tem, existe de fato, assim, acho
+[LOCUTOR 41]: que...
+[LOCUTOR 30]: De maneira geral, quando a gente está no mercado e a gente lida com B2B, B2C, sempre vai ter um percentual de clientes que a gente vai ter de demanda para tratar, alguma insatisfação, aí até brinca, olha que resolver esses quatro, capaz de aparecer mais dois.",nenhum,False,nenhum,nenhum
+XR21,desenvolvimento,pool_palavra_pista,768,"[LOCUTOR 8]: Acho
+[LOCUTOR 6]: que
+[LOCUTOR 8]: é
+[LOCUTOR 6]: nessa
+[LOCUTOR 8]: linha.
+[LOCUTOR 6]: Mas o ROI
+[LOCUTOR 8]: também aumenta,
+[LOCUTOR 6]: certo?
+[LOCUTOR 8]: Sim, e a gente entrega mais oportunidades de redução de custos. Acho que é nessa linha. parece ter uma opção dele lá ali de sair da mesa, né? Tipo, ah, não, então não tem mais negócio. Mas ou o 400 que ele tinha falado que estava ok e fechado, ou o 700 que ele pediu mais copa e mais customização, mas é en",objecao,False,objecao,risco
+H01,holdout,sorteio_inicial,453,"[LOCUTOR 8]: Ah,
+[LOCUTOR 3]: ótimo. A gente vai tentar correr o máximo possível.
+[LOCUTOR 8]: Tá, tá joia. Então tá, gente. Eu vou mandar para vocês lá o status, né? Deixa eu só fazer... Eu queria ter mandado, na verdade, hoje o status já com essas datas, mas só que não foi possível, pela [LOCAL] estar fora, e aí a questão da gente fazer esse reagendamento das datas, porque aí ficou errado. Eu preciso que a gente atualize até para eu ver se eu consigo colocar a outra pessoa,",nenhum,False,nenhum,nenhum
+H02,holdout,sorteio_inicial,565,"[LOCUTOR 4]: não. O
+[LOCUTOR 15]: [PESSOA] de
+[LOCUTOR 4]: lê pensamento. O
+[LOCUTOR 15]: cara que
+[LOCUTOR 8]: tá [PESSOA] de
+[LOCUTOR 4]: lá conversou com você umas meia hora. A gente falou o que a gente ia fazer. Fiquei tudo pra
+[LOCUTOR 15]: ele e não[PESSOA] [PESSOA] de",nenhum,False,nenhum,nenhum
+H03,holdout,sorteio_inicial,121,"[LOCUTOR 13]: Aqui não, mas eu tenho duas perguntas.
+[LOCUTOR 22]: [EMPRESA].
+[LOCUTOR 13]: Tem uma forma de gerar um relatório final de serviço de cada comanda e também se... Qual era a pergunta? Do orçamento. Do orçamento. É, se eu consigo gerar um orçamento, porque o que acontece? Às vezes as pessoas ligam, enfim, entram em contato com nós ou algum paciente pedindo o orçamento. Daí, hoje no Vetos a gente consegue. A cirurgia vai sair tanto, anestesia tanto, dias de interna",dor,False,dor,historico
+H05,holdout,sorteio_inicial,505,"[LOCUTOR 4]: vocês
+[LOCUTOR 5]: e caso necessário a gente faz uma demonstração, que eu acho que é sempre o melhor, tá? Chamar o [EMPRESA]: em 40 minutos. [PESSOA]: gente apresenta, vocês discutem para não ficar nenhuma aresta aí que lá depois, pô, contratei e imaginando que tinha e não tem, [PESSOA]: Ou que [PESSOA]: um custo adicional.",nenhum,False,nenhum,nenhum
+H06,holdout,sorteio_inicial,955,"[LOCUTOR 7]: mas tá
+[LOCUTOR 39]: certo.
+[LOCUTOR 7]: Sim. Tá, só mais uma última coisa.
+[LOCUTOR 39]: Tá,
+[LOCUTOR 7]: com
+[LOCUTOR 39]: vontade.
+[LOCUTOR 7]: Que a [PESSOA] acho que quer falar alguma coisa.
+[LOCUTOR 36]: Não, pra mim só que não tava aparecendo o chat e esse não aparece no meu aqui.",nenhum,False,nenhum,nenhum
+H07,holdout,sorteio_inicial,189,"[LOCUTOR 3]: te
+[LOCUTOR 12]: fazendo mil follows. cara, vou bloquear esse cara. A gente já tá conversando, mas aí tem essa outra solução que agora eu [PESSOA] sei te falar se ele vai te atender.",objecao,False,objecao,risco
+H10,holdout,sorteio_inicial,131,"[LOCUTOR 4]: para[PESSOA] [LOCAL] de
+[LOCUTOR 9]: faturar a nota.
+[LOCUTOR 4]: Teria[PESSOA] [LOCAL] de
+[LOCUTOR 9]: só esse ponto
+[LOCUTOR 10]: ali. Tem, né?[PESSOA] de
+[LOCUTOR 9]: Mas aí toda essa mão
+[LOCUTOR 4]: de obra[PESSOA] [LOCAL] de
+[LOCUTOR 9]: que ela faz em planilha acaba, fica tudo automatizado.",dor,False,dor,historico
+H17,holdout,sorteio_inicial,1075,"[LOCUTOR 3]: A previsão é semestral, tá, [PESSOA]?
+[LOCUTOR 1]: Desculpa, não entendi.
+[LOCUTOR 3]: A previsão de revisão de orçamentos de pessoas é semestral.
+[LOCUTOR 1]: Ah, semestral, legal.
+[LOCUTOR 3]: Não quer dizer que não possa ser revista em um trimestre. A ideia é iniciá-la semestre.",nenhum,False,nenhum,nenhum
+H19,holdout,sorteio_inicial,301,"[LOCUTOR 15]: isso? É mais do que o suficiente.[PESSOA] -
+[LOCUTOR 9]: Tá, tranquilo. Bom, da minha parte aqui, acho que já ficou bem claro o cenário, [PESSOA]. Talvez seria a gente marcar um novo momento para te apresentar. Então, [LOCAL], não sei se você já conhece ou não, se chegou a visualizar em algum momento ou não.",oportunidade,False,oportunidade,proxima_acao
+H21,holdout,sorteio_inicial,837,"[LOCUTOR 64]: é uma
+[LOCUTOR 18]: dificuldade muito grande.
+[LOCUTOR 64]: Eu
+[LOCUTOR 18]: vou tentar
+[LOCUTOR 64]: registrar o chamado, [PESSOA]. O que a gente vai fazer? [LOCAL] [PESSOA]
+[LOCUTOR 10]: cliente tem que fazer o registro do chamado. Aí",risco,False,risco,risco
+H22,holdout,sorteio_inicial,975,"[LOCUTOR 16]: de
+[LOCUTOR 9]: que forma que a gente posiciona. Vamos trazer para vocês agora uma proposta, aí o [EMPRESA] deve conduzir isso com vocês nessa apresentação dessa proposta, só que agora um pouco mais aprofundado e mais com as informações que vocês nos passaram aqui para que a gente possa seguir adiante, tá bom? Agradecer, então, a atenção de todos. Muito obrigado pela oportunidade que vocês nos deram de apresentar o programa. E assim que eu estiver com essas info",oportunidade,False,oportunidade,proxima_acao
+H23,holdout,sorteio_inicial,349,"[LOCUTOR 43]: Essa parte de pedidos, mandou um pedido, teve algum corte, alguma notificação, ele também consegue receber aqui. [LOCAL]?
+[LOCUTOR 40]: [LOCUTOR 22]: essa parte de visitas, o que seria isso? No nosso back office, retaguarda, onde fazemos alguns parâmetros e cadastramos usuários que vão usar a [EMPRESA], Eu tenho um processo lá chamado check-in e check-out. O que seria isso? Eu posso configurar lá da seguinte forma. Eu quero que quando o meu vendedor chega a 100 ",nenhum,False,nenhum,nenhum
+H24,holdout,sorteio_inicial,755,"[LOCUTOR 66]: [LOCUTOR 52]: vamos tentar fazer algumas outras reuniões, outras qual, para a gente poder realmente chegar
+[LOCUTOR 77]: Um denominador comum é que não seja nem ruim para nós nem para vocês.",objecao,False,objecao,risco
+H25,holdout,sorteio_inicial,873,"[LOCUTOR 20]: RH, controladoria e financeiro.
+[LOCUTOR 2]: Entendi. Tá, vamos[PESSOA] da
+[LOCUTOR 20]: fazer o seguinte. A
+[LOCUTOR 2]: minha sugestão, tá? Vamos marcar um bate-papo para todo mundo conhecer a questão do back-office. E, em [LOCAL], o [PESSOA] traz [PESSOA] tema internamente para ver se a gente consegue espelhar licenciamento dessa unidade para outra, talvez cadastrando ela, mesmo que não seja... São empresas diferentes, mas talvez os sócios vão ser os m",oportunidade,False,oportunidade,proxima_acao
+H26,holdout,sorteio_inicial,39,"[LOCUTOR 81]: pede para ser atendido via
+[LOCUTOR 71]: WhatsApp,
+[LOCUTOR 81]: eu vou validar para te
+[LOCUTOR 71]: trazer isso.
+[LOCUTOR 12]: Tá bom. Bom, agora umas perguntas bem
+[LOCUTOR 71]: objetivas.
+[LOCUTOR 12]: Prazo de implantação, quer dizer, a gente já tem o",nenhum,False,nenhum,nenhum
+H27,holdout,sorteio_inicial,957,"[LOCUTOR 3]: Olha aí que legal.
+[LOCUTOR 2]: Porque é chatinho a questão regulatória dentro da [EMPRESA] para produtos de saúde.
+[LOCUTOR 3]: Sim.
+[LOCUTOR 2]: Por isso que não tem ainda. Mas eu já estou, já tem a loja aberta, estou tentando. Cadastro deles é bem complicado, é uma tabela 200 colunas, aí se dá um erro numa coluna já não entra, mas acho que, de repente, passar o ano novo mesmo e, de repente, dar uma olhada para frente e começar do início ali.",dor,False,dor,historico
+H29,holdout,sorteio_inicial,141,[LOCUTOR 2]: Bom mesmo que ele tenha só o agora a gente pode vender para ele um fluido e homologar ele para trazer o IAS que são os servidores que não são da top está,oportunidade,False,oportunidade,proxima_acao
+H31,holdout,sorteio_inicial,17,"[LOCUTOR 1]: Olha pra vocês assim como alguém que está no mercado tenha despertido o que é. Bom, a gente tem uma ferramenta que todo mundo que está no mercado usa. Por que vai ter que adaptar agora a nossa ferramenta? Melhor nós se adaptar à ferramenta, e não adaptar a ferramenta pra nós. Tá entendido. Tá entendido? Tem, com certeza. Eu vou lá convidar a [PESSOA], então, Eu acho que lá, olhando a tua agenda, tu queres fazer alguma agenda, alguma consideração lá? Ou seguir as ",objecao,False,objecao,risco
+H36,holdout,sorteio_inicial,1055,"[LOCUTOR 25]: fazer
+[LOCUTOR 23]: aquele tema de arrastar. As telas ali é só para
+[LOCUTOR 25]: entender
+[LOCUTOR 23]: se fluir que vai ser mais ou menos assim também. porque da forma como tu falou de eu entender que não é que eu poderia mesmo depois de adicionar outras pessoas definir a ordem também.",nenhum,False,nenhum,nenhum
+H37,holdout,sorteio_inicial,31,"[LOCUTOR 66]: Leva
+[LOCUTOR 25]: tempo, não leva tempo? Se ainda é um produto de matéria-prima que roda bastante, tudo bem. Agora aquele produto que eu vendo pouco, quanto tempo vai ficar parado",dor,False,dor,historico
+YD00,holdout,pool_palavra_pista,801,"[LOCUTOR 4]: Isso aí, porque a decisão no final das contas, tá, [LOCAL], não vai ser do comercial. Vou dar exemplo, se o seu time de modelos falar assim, não tem como, porque é uma regra da [EMPRESA], que é auditável ou que tem um controle, que foi decidido por... Lá no conselho, que é esse o modelo, que ele não vai ser alterado, eles não vão alterar a regra para atender um cliente. Eu entendo a necessidade da TOTUS, mas tem que levantar até... Seria interessante quando você ",objecao,False,objecao,risco
+YD02,holdout,pool_palavra_pista,813,"[LOCUTOR 64]: frequência [LOCAL], [LOCAL], bem-vindo ao meu mundo Eu
+[LOCUTOR 65]: sei,
+[LOCUTOR 64]: mas n
+[LOCUTOR 7]: é o meu
+[LOCUTOR 64]: Aqui
+[LOCUTOR 65]: no
+[LOCUTOR 64]: tribut
+[LOCUTOR 4]: muda
+[LOCUTOR 64]: bem mais coisa. E a gente
+[LOCUTOR 65]: tem, dentro do módulo de comércio superior, uma parte boa que é o módulo de catálogo de produtos. Então eu consigo ver o que mudou nos atributos, mas não consigo ver alíquotas, né, gente? Quando eu atualizo lá na parte de ",dor,False,dor,historico
+YD03,holdout,pool_palavra_pista,249,"[LOCUTOR 15]: Não tem
+[LOCUTOR 19]: problema.
+[LOCUTOR 34]: Você é uma recepcionista?
+[LOCUTOR 19]: Ah, entendi. Aconteceu o mesmo problema anteriormente, né?
+[LOCUTOR 30]: que
+[LOCUTOR 19]: bom que... A dificuldade
+[LOCUTOR 34]: de mão de obra, e daí eu tô numa colonia. Eu vou conversar com vocês, e logo depois de vocês eu tenho outra pessoa que é de software também, que eu tô querendo mudar o sistema aqui da clínica.",oportunidade,False,oportunidade,proxima_acao
+YD06,holdout,pool_palavra_pista,865,"[LOCUTOR 67]: E [PESSOA], não é só uma crítica, é uma dor, né? É uma dor que a gente está tendo,
+[LOCUTOR 59]: e a gente
+[LOCUTOR 58]: tem
+[LOCUTOR 67]: que tomar uma decisão,
+[LOCUTOR 59]: e
+[LOCUTOR 58]: eu gostaria
+[LOCUTOR 67]: de tomar uma decisão juntos, porque,
+[LOCUTOR 17]: tipo,
+[LOCUTOR 67]: a gente tem uma batata quente na mão aqui. Eu não posso ficar sem WhatsApp, igual o [PESSOA] comentou, e ficar só com o mano. O parceiro lá, acho que já percebeu que a gente que",dor,False,dor,historico
+YD07,holdout,pool_palavra_pista,847,"[LOCUTOR 5]: está
+[LOCUTOR 4]: fazendo manual.
+[LOCUTOR 5]: Trazer o pessoal técnico para avaliar. Eles vão olhar e eles vão pedir evidência. Se você quiser já trazer alguma coisa você sabe né. Isso aqui fica de fora sempre eu não consigo de jeito nenhum fazer conciliação. o que está acontecendo",dor,False,dor,historico
+YD09,holdout,pool_palavra_pista,321,"[LOCUTOR 16]: não? É o 3, aquele demora na fila que a gente tem que ver, esse aqui acho que vai envolver um pouco mais as ações, porque tem que envolver todo o fluxo
+[LOCUTOR 1]: de[PESSOA] [PESSOA] -
+[LOCUTOR 16]: integração para a gente avaliar, então precisa matar esses erros antes aqui para atuar no terceiro aqui.",risco,False,risco,risco
+YD11,holdout,pool_palavra_pista,785,"[LOCUTOR 9]: Não consigo. Consigo marcar uma visita. Temos... Inclusive, eu estava no [LOCAL],[PESSOA] de
+[LOCUTOR 2]: h
+[LOCUTOR 7]: pouco tempo, falando com[PESSOA] gil de
+[LOCUTOR 2]: uma
+[LOCUTOR 9]: operadora de[PESSOA] gil de
+[LOCUTOR 2]: lá que
+[LOCUTOR 9]: utiliza, aí é questão de eu só ver [PESSOA] de",nenhum,False,nenhum,nenhum
+YO01,holdout,pool_palavra_pista,191,"[LOCUTOR 26]: ter trabalho aí, então, nos
+[LOCUTOR 37]: pr
+[LOCUTOR 17]: dias.
+[LOCUTOR 37]: Só uma questão que a gente estressou bastante. estressou bastante, que é a questão da mensalidade e de como a gente conseguiria fazer isso internamente para 18 meses, né? Como que a gente faria isso aqui, mediante os nossos projetos, as nossas propostas e autorizações. Mas conseguimos também fazer esse desconto temporário de 18 meses, tá? E aí o valor conseguiu no... Pode falar, [PESS",oportunidade,False,oportunidade,proxima_acao
+YO02,holdout,pool_palavra_pista,403,"[LOCUTOR 3]: caso, O que nós temos previsto é que, pelo menos, o que seria interessante é que até mês 6, nós já tenhamos uma ferramenta funcionando. Essa é a previsão. Referente a
+[LOCUTOR 51]: parte
+[LOCUTOR 34]: da
+[LOCUTOR 51]: proposta,
+[LOCUTOR 34]: é o marido
+[LOCUTOR 51]: acreditante",oportunidade,False,oportunidade,proxima_acao
+YO03,holdout,pool_palavra_pista,859,"[LOCUTOR 68]: E como é que você faz o agrupamento ali, [EMPRESA]? Você imprime um... Como é que, depois da impressão, qual é o próximo passo? Porque você precisa agrupar, editar juntos, pelo que eu entendi.
+[LOCUTOR 85]: Vou imprimindo a sequência de ordem de produção. Daí eu peguei a peça na mão lá, fui e olhei essa aqui. Vou e imprimo o documento, imprimo a inscrição de trabalho, imprimo os desenhos, imprimo o plano de revisão final. Depois eu vou separando e agrupando e gr",dor,False,dor,historico
+YO04,holdout,pool_palavra_pista,135,"[LOCUTOR 8]: apurado aí ent
+[LOCUTOR 9]: estou segurando mas essa aqui a gente mata a gente mata. Isso aqui a
+[LOCUTOR 8]: gente
+[LOCUTOR 12]: faz
+[LOCUTOR 8]: mas
+[LOCUTOR 12]: amanhã vou amanhã eu tenho que fechar essa proposta que se não fechar amanhã da
+[LOCUTOR 2]: já
+[LOCUTOR 12]: não fecha.
+[LOCUTOR 8]: Não tranquilo. Prazer [PESSOA] não te conhecia.",oportunidade,False,oportunidade,proxima_acao
+YO05,holdout,pool_palavra_pista,909,"[LOCUTOR 8]: Eu não sei como isso funciona aqui dentro, eu preciso escalar e isso seria a partir de ticket. Tu vai ter que abrir o ticket ali, sinalizando o interesse, o desinteresse da continuidade do Fluig. Tu tens que registrar isso ali na desistência do contrato, até para que isso seja recebido pela área de contratos, processado, e a partir desse processamento, ele começa a contar essa data. Então, quanto mais cedo você fizer essa formalização na área dos tickets, mais ce",risco,False,risco,risco
+YO06,holdout,pool_palavra_pista,907,"[LOCUTOR 43]: É. Talvez o pessoal
+[LOCUTOR 7]: não
+[LOCUTOR 43]: tenha a oportunidade de entrar com o WMS de cara, então você prepara
+[LOCUTOR 7]: ele
+[LOCUTOR 43]: com
+[LOCUTOR 7]: o próximo passo. WMS é um conjunto de muitas funcionalidades
+[LOCUTOR 43]: também, né?
+[LOCUTOR 30]: é bem mais sistematizado,
+[LOCUTOR 43]: bem mais complexo, então eu vejo ele como um segundo passo mesmo. [EMPRESA], por conta do sistema ser mais simplificado nesse primeiro momento, muita coisa q",oportunidade,False,oportunidade,proxima_acao
+YO09,holdout,pool_palavra_pista,171,"[LOCUTOR 39]: Não, mas isso é ótimo, porque daí agora a gente senta de novo, conversa, vamos ver licenciamento, vamos ver o que a gente consegue, de repente, ebaldissera limpeza: enxutar também de valor de serviço, de licenciamento. Vou ver as condições que eu consigo aqui aprovar. E aí eu te apresento, com certeza, uma nova proposta.[PESSOA] limpeza: E se conseguir caber dentro da minha realidade, ok. Eu vou ficar muito feliz de ter vocês comigo, de ser cliente de vocês. E",oportunidade,False,oportunidade,proxima_acao
+YO11,holdout,pool_palavra_pista,583,"[LOCUTOR 35]: [LOCUTOR 27]: colocar esses dois produtos aqui. Exatamente, vamos avançar aqui com a apresentação estratégica da saúde E hoje a gente vai focar aqui, eu vou dar uma resumida bem rápido, tá? Eu sempre faço isso para os clientes no nosso pitch Que tudo que a gente oferece aqui, ele está totalmente alinhado com o cenário atual global. Então a gente tem de onde tirar os números, a [EMPRESA] não está oferecendo uma solução que não está de acordo com o mercado, com a ",nenhum,False,nenhum,nenhum
+YR02,holdout,pool_palavra_pista,707,"[LOCUTOR 3]: O
+[LOCUTOR 8]: [EMPRESA] trabalha toda a lógica. O [EMPRESA] hoje é o nosso [PESSOA] de
+[LOCUTOR 3]: Então
+[LOCUTOR 8]: a gente tem toda a lógica do [EMPRESA]. Provavelmente a equipe vai aumentar muito nos próximos 12 meses. Ele se torna muito caro para essa área. Tanto que a gente está terceirizando o [LOCAL] aqui do nosso atendimento. E aí a gente está agora fazendo um projeto que a gente está implantando em outro lugar. Então, a gente utiliza hoje a Converso, ",objecao,False,objecao,risco
+YR07,holdout,pool_palavra_pista,921,"[LOCUTOR 29]: meu, mas não é meu. Alguém tá usando o meu nome. Deixa eu pegar. Já que tá no meu nome, acho que ninguém pode reclamar. Eu venho aqui e gero, crio, embarque com ele. Tá vermelho, o pessoal tá selecionando. Aguardando o recurso. Liberado para trânsito. Então você consegue compreender tudo o que está acontecendo aqui, tá? E uma vez que for, você finaliza o processo, ele sai dessa tela, tá? Então, de novo, essa aqui é uma primeira versão, tá? Eu acho que muita cois",nenhum,False,nenhum,nenhum
+YR08,holdout,pool_palavra_pista,361,"[LOCUTOR 16]: acho
+[LOCUTOR 56]: bom
+[LOCUTOR 16]: muito bom falar assim tão importante tá é [PESSOA] [PESSOA] Isso que o [PESSOA] falou é fundamental vocês repetirem, que não é uma customização. Em si, aceleramos o roadmap e vamos colocar isso no produto padrão. Então ele não está ganhando uma customização. A [EMPRESA] está flexibilizando e colocando isso num produto que futuramente vai ser comercializado para outros, inclusive. Que aí vai sair da imagem, da mente do [PESSOA",nenhum,False,nenhum,nenhum
+YR10,holdout,pool_palavra_pista,657,"[LOCUTOR 52]: É, é brabo. Trava, sempre trava. Eu tô com uma negociação com a [PESSOA] também, que é transportadora, e travou no [EMPRESA], só que o [EMPRESA] [PESSOA] vai se envolver nada no projeto, porque como é o carboniá, que [PESSOA] tem integração, [PESSOA] tem nada, é feito através de um arquivo upload, O Tei travou porque eles decidem junto com a equipe e os caras estão travando. [PESSOA] olha senhora.",risco,False,risco,risco
+YR11,holdout,pool_palavra_pista,781,"[LOCUTOR 6]: Essa é a ideia, entendeu? Lembrando sempre que quando a gente faz um trabalho com o canal a gente tem que levar para o canal essa oportunidade porque não adianta eu ocupar o serviço deles e no final a gente fecha com o terceiro, com o interno, aí fica ruim. Então quando a gente foca e pede o apoio do canal a gente usa e finaliza com o canal, tá? Então pega a proposta do canal Não é mais caro que o resto, não é isso, tá? Mas é direcionar. Se eu trouxe o canal pra ",nenhum,False,nenhum,nenhum
